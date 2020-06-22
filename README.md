@@ -7,9 +7,10 @@ Python 2.7. The data request included in the `xls` directory is from version
 
 The following Python libraries are required and can be installed with pip:
 
+```
 openpyxl
-
 dreqPy
+```
 
 Running `upgrade_dreq.py` will load the existing PRIMAVERA 01.00.07 version of data request
 and upgrade it to version 01.00.13 of the HighResMIP data request.
