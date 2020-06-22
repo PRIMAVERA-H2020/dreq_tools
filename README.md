@@ -1,4 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3903546.svg)](https://doi.org/10.5281/zenodo.3903546)
+
 # dreq_tools
+
 Tools for updating the PRIMAVERA data request.
 
 These files have not been tested since 2017 and will only work with
